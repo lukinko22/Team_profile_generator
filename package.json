@@ -1,0 +1,19 @@
+{
+    "name": "module14-challenge",
+    "version": "1.0.0",
+    "description": "Module 12's Challenge",
+    "main": "index.hmtl",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest --verbose test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.2",
+        "jest": "^27.5.1",
+        "node-modules": "^1.0.1"
+    }
+}
